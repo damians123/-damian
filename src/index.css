@@ -1,0 +1,30 @@
+.hi {
+	height: 200px;
+	width: 100px;
+	background-color: red;
+}
+
+#coding {
+	height: 28px;
+	width: 28px;
+	background-color: blue
+}
+
+#test{
+	height: 28px;
+	width: 28px;
+	background-color: green;
+}
+
+#test2 {
+	height: 100px;
+	width: 28px;
+	background-color: purple;
+}
+
+.hi >div:nth-child(2) {
+	border: 5px solid yellow;
+	}
+	.hi{
+		
+	}
